@@ -1,0 +1,14 @@
+{
+  "name": "svelte-user-management",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0"
+  },
+  "dependencies": {
+    "svelte": "^3.38.0"
+  }
+}
